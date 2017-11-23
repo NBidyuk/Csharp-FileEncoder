@@ -1,2 +1,2 @@
 # Csharp-FileEncoder
-File encoder and decoder. System programming
+File encoder and decoder. System programming. WinForms.
